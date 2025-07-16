@@ -20,10 +20,16 @@ This project analyzes customer behavior on the Instacart grocery platform using 
 
 ## Files
 
-- `instacart_analysis.ipynb`: The main notebook containing the full analysis.
-- `README.md`: This file, which provides context and instructions.
+- `instacart_analysis.ipynb` — The main notebook containing the full analysis and visualizations  
+- `README.md` — This file, which provides context and project summary
+
+## Note on Data
+
+This notebook was created on the TripleTen platform.  
+The data files used are not included in this repository, but all outputs and visualizations have been preserved for reference.
 
 ## View the Notebook
 
-If you'd prefer to view the notebook online without downloading it, you can open it directly in Google Colab here:  
-[Open in Colab](https://colab.research.google.com/github/joecre/instacart-order-analysis/blob/main/instacart_analysis.ipynb)
+To open the notebook directly in Google Colab (without downloading), use the link below:
+
+**[Open in Colab](https://colab.research.google.com/github/joecre/instacart-order-analysis/blob/main/instacart_analysis.ipynb)**

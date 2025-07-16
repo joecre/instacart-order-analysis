@@ -32,4 +32,5 @@ The data files used are not included in this repository, but all outputs and vis
 
 To open the notebook directly in Google Colab (without downloading), use the link below:
 
-**[Open in Colab](https://colab.research.google.com/github/joecre/instacart-order-analysis/blob/main/instacart_analysis.ipynb)**
+**[Open in Colab](https://colab.research.google.com/github/joecre/instacart-order-analysis/blob/main/instacart-order-analysis.ipynb)
+**
